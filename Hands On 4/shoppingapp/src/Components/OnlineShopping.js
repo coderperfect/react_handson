@@ -12,7 +12,7 @@ export class OnlineShopping extends React.Component{
         ];
 
         return (
-            <div>
+            <div align='center' style={{color:'green'}}>
                 <h1>Items Ordered:</h1>
                 <Cart item={CartInfo}/>
             </div>
