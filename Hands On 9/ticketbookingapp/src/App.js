@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import Greeting from './Components/Greeting';
 import React, { Component } from 'react';
+import { Booking } from './Components/HandsOn9';
+import HandsOn10App from './Components/HandsOn10App';
 
 class App extends Component{
   state = {
